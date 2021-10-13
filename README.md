@@ -4,7 +4,7 @@ Do you have any issues with the bot? Head to our [Discord Server](https://discor
 
 ## ✨ Contributors
 
-Contributions are always welcomed :D Make sure to follow [Contributing.md](/CONTRIBUTING.md)
+Contributions are always welcomed :D
 
 <a href="https://github.com/AXELXK/Bot-Musica/graphs/contributors">
   <img src="https://github.com/AXELXK/Bot-Musica/graphs/contributors" />
